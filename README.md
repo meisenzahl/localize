@@ -1,7 +1,7 @@
 # localize
 Creates localized versions of all kind of files.
 
-Usage: localize input-folder localization-folder output-folder
+Usage: localize input_folder localization_folder output_folder
 
 directory structure
 ```.
