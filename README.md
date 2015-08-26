@@ -8,11 +8,11 @@ directory structure
 ├── input
 │   └── index.html
 └── localization
+    ├── name.de
     ├── files.es
     ├── like.it
-    ├── name.de
-    ├── want.pl
-    └── you.no
+    ├── you.no
+    └── want.pl
 ```
 
 You can name the files inside the localization-folder like you want.
@@ -24,11 +24,11 @@ If you now run 'localize input localization output' you get the following direct
 ├── input
 │   └── index.html
 ├── localization
+│   ├── name.de
 │   ├── files.es
 │   ├── like.it
-│   ├── name.de
-│   ├── want.pl
-│   └── you.no
+│   ├── you.no
+│   └── want.pl
 └── output
     ├── de
     │   └── index.html
